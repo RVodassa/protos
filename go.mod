@@ -1,4 +1,4 @@
-module rvodassa/protos
+module github.com/RVodassa/protos
 
 go 1.20
 
